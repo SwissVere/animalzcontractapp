@@ -6,7 +6,6 @@ import javax.servlet.*;
 import ch.hsr.bll.*;
 
 import java.io.*;
-import java.lang.invoke.WrongMethodTypeException;
 import java.sql.SQLException;
 import java.util.ArrayList;
 

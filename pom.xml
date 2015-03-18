@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <build>
-    <!-- <sourceDirectory>src</sourceDirectory>
+    <sourceDirectory>src</sourceDirectory>
     <resources>
       <resource>
         <directory>src</directory>
@@ -22,7 +22,7 @@
       <resource>
       	<directory>res</directory>
       </resource>
-    </resources> -->
+    </resources> 
     <plugins>
     <plugin>
 				<groupId>org.apache.maven.plugins</groupId>
